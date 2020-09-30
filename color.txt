@@ -3,3 +3,4 @@ Purple is a cold color
 Green is a cold color
 Hola Pin
 Red is a primary color
+Orange is a seconary color
